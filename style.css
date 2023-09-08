@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     padding: 0;
     margin: 0;
@@ -30,3 +31,35 @@ top: 200px;
     list-style-type: none;
     display: inline;
 }
+=======
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(/img/img.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.back {
+    width: 1500px;
+    height: 400px;
+    background-color: black;
+    opacity: 0.6;
+    z-index: 1;
+}
+
+.container {
+    text-align: center;
+}
+
+.para {
+    color: white;
+text-align: center;
+position: relative;
+top: 200px;
+    
+}
+>>>>>>> 920198512e9c08bc2ba5a453a0c815ecf421c72c
