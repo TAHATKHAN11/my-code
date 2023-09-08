@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+ul li {
+    list-style-type: none;
+    display:inline-block ;
+    text-decoration: none;
+    padding: 10px;
+    
+
+    
+}
+ul{
+    background-color: rgba(253, 223, 158, 0.671);
+    color: rgb(243, 243, 243);
+    padding: 12px;
+
+}
+a{
+    text-decoration: none;
+}
+li h1 {
+    outline-style:inset;
+    padding: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+
+}
+body{
+    background-image: url(/img/51951042270_78ea1e8590_h.7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color: aliceblue;
+}
+#logo{
+    background-color: rgba(0, 0, 0, 0.767);
+    width: 60%;
+    margin-left: 280px;
+    margin-top: 150px;
+    border-radius: 8px;
+    padding: 20px;
+}
+li h2{
+    margin-left: 50px;
+}
